@@ -85,9 +85,9 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "UfTt1mwjI9o", name: "Seum Dero - Bind Us"},
-	{youtube: "v-_AVZKqiuA", name: "Cour - Rainforest"},
-	{youtube: "0V784AiYtG8", name: "IASIP - Dayman"}
+	{youtube: "0V784AiYtG8", name: "IASIP - Dayman"},
+	{youtube: "0V784AiYtG8", name: "IASIP - Dayman"},
+	{youtube: "0V784AiYtG8", name: "IASIP - Dayman"},
 ];
 
 /*Random music order?*/
