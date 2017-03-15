@@ -13,7 +13,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Revival Servers, Bug Boys";
+var l_serverName = "Revival Servers, DarkRP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -50,9 +50,10 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/bb_temples_b140002.jpg",
-	"backgrounds/images/bb_temples_b140003.jpg",
-	"backgrounds/images/bb_temples_b140004.jpg"
+	"backgrounds/images/1.jpg",
+	"backgrounds/images/2.jpg",
+	"backgrounds/images/4.jpg",
+	"backgrounds/images/3.jpg"
 ];
 
 /*Random background images order?*/
@@ -85,8 +86,8 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "0V784AiYtG8", name: "IASIP - Dayman"},
-	{youtube: "0V784AiYtG8", name: "IASIP - Dayman"},
+	{youtube: "IhP3J0j9JmY", name: "Imagine Dragons - Beliver"},
+	{youtube: "JGwWNGJdvx8", name: "Ed Sheeran - Shape of you"},
 	{youtube: "0V784AiYtG8", name: "IASIP - Dayman"},
 ];
 
@@ -95,7 +96,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 25;
+var l_musicVolume = 10;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
@@ -103,7 +104,10 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 "Visit the Forums at http://revivalservers.com",
-"Dont you love some Bug Boys?"
+"DarkRP, more like cancer.",
+"Donate for special jobs and printers!",
+"Stealing Memes",
+"Adopting cats.",
 ];
 
 /*Random message order?*/
