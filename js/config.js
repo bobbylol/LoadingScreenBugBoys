@@ -86,17 +86,18 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
+	{youtube: "Zxc20saM8DA", name: "Bo Burnham's - Gods Perspective"},
 	{youtube: "IhP3J0j9JmY", name: "Imagine Dragons - Beliver"},
 	{youtube: "JGwWNGJdvx8", name: "Ed Sheeran - Shape of you"},
 	{youtube: "0V784AiYtG8", name: "IASIP - Dayman"},
 ];
 
 /*Random music order?*/
-var l_musicRandom = true;
+var l_musicRandom = false;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 10;
+var l_musicVolume = 20;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
